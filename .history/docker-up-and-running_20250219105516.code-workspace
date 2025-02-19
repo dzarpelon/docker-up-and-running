@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+      "**/docker-up-and-running.code-workspace": true,
+      "*.code-workspace": true,
+      "docker-up-and-running.code-workspace": true,
+      "**/*.code-workspace": true,
+      "**/.history": true,
+      ".history": true
+    },
+    "explorerExclude.backup": {}
+  }
+}

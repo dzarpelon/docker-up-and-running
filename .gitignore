@@ -53,5 +53,8 @@ coverage/
 junit.xml
 test-results/
 
+# history
+*.history/
+
 #Vscode files
 *.code-workspace
